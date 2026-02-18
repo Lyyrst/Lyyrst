@@ -3,11 +3,9 @@
 # Hi 👋, I'm Lyrst
 
 ### Architecture-oriented developer with a hybrid web + infrastructure background, currently expanding into mobile and video game development.
+
 <br>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Lyyrst&label=Profile views&color=0e75b6&style=flat" alt="Lyyrst" />
-</p>
-<br>
+
 </div>
 
 - 🔭 I'm currently working on **A mobile application built with Flutter and a Spring backend (initially for personal use). Unity games focused on automation mechanics (Factorio-like).**
@@ -29,6 +27,9 @@
 <br>
 
 <h3>Languages and Tools:</h3>
+
+<br>
+
 <h3>Favorites so Far ❤️</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring" />
