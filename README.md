@@ -12,13 +12,13 @@
 
 - 🌱 I'm currently learning **Flutter, C#, 2D design. More broadly: web and infrastructure in a professional context.**
 
-- 🤝 I'm looking for help with **Unity rendering**
+- 🤝 I'm looking for help with **Unity rendering**.
 
-- 💬 Ask me about **Web, infrastructure, architecture, or automation games**
+- 💬 Ask me about **Web, infrastructure, architecture, or automation games**.
 
-- 💼 I currently work as an Intern, learning in 42 school
+- 💼 I currently work as an Intern, learning in 42 school.
 
-- 📫 How to reach me **kurt.butorp@gmail.com**
+- 📫 How to reach me **kurt.butorp@gmail.com**.
 
 <br>
 
