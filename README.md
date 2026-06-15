@@ -31,7 +31,7 @@
 
 <h3>Hot on the Stove 🔥</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,cs,angular,docker" />
+  <img src="https://skillicons.dev/icons?i=rust,flutter,cs,angular,docker" />
 </p>
 
 <h3>Started with those 🥇</h3>
@@ -47,11 +47,6 @@
 <h3>Urh, when needed 🍞</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts" />
-</p>
-
-<h3>Tools 🛠</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,linux,postman" />
 </p>
 
 
