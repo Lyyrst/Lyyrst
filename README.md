@@ -2,19 +2,13 @@
 
 # Hi 👋, I'm Lyrst
 
-### Architecture-oriented developer with a hybrid web + infrastructure background, currently expanding into mobile and video game development.
+### Developer with a hybrid web/infrastructure background.
 
 <br>
 
 </div>
 
-- 🔭 I'm currently working on **A mobile application built with Flutter and a Spring backend (initially for personal use). Unity games focused on automation mechanics (Factorio-like).**
-
-- 🌱 I'm currently learning **Flutter, C#, 2D design. More broadly: web and infrastructure in a professional context.**
-
-- 🤝 I'm looking for help with **Unity rendering**.
-
-- 💬 Ask me about **Web, infrastructure, architecture, or automation games**.
+- 🌱 I'm learning **Flutter, rust. More broadly: web and infrastructure in a professional context.**
 
 - 💼 I currently work as an Intern, learning in 42 school.
 
